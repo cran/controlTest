@@ -1,5 +1,7 @@
-8803d1b0f0551d51e4fc8cfd488585b4 *DESCRIPTION
-76064e2718f31aed3e7ebfe71f3553cc *NAMESPACE
-857890576d9a41a5a53e5ae6a33244d0 *R/control_median_test.R
-f27b7239e48ce317fe4c647499310252 *man/controlTest-package.Rd
-8110e47fdf2c57d0fbd1dc4996bd7267 *man/control_median_test.Rd
+9737aa2b2199fec144c41582c20c7761 *DESCRIPTION
+9e544b86b7ebc8d5e856153c54cb2c23 *NAMESPACE
+0cd72a17a8326ec42a5a02ca186725c8 *R/quantileControlTest.R
+8d46027d0b54419fc5abadc280d24aaf *R/quantileSE.R
+6433dd6048ff6e9a704cc088b28f00f2 *README.md
+d2bbe31e0b50d21c256efef3d503e2a7 *man/quantileControlTest.Rd
+da8bd1512f28a2ef0dea302dfbf044cf *man/quantileSE.Rd

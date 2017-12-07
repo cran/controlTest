@@ -1,15 +1,16 @@
 Package: controlTest
 Type: Package
-Title: Median Comparison for Two-Sample Right-Censored Survival Data
-Version: 1.0
-Date: 2015-06-17
-Author: Eric Kawaguchi
-Maintainer: Eric Kawaguchi <erickawaguchi@ucla.edu>
-Description: Nonparametric two-sample procedure for comparing the median survival time. 
-Depends: R (>= 3.1.0)
-Imports: survival (>= 2.38)
-License: GPL-2
-Packaged: 2015-06-17 19:30:43 UTC; eskawaguchi
+Title: Quantile Comparison for Two-Sample Right-Censored Survival Data
+Version: 1.1.0
+Author: Eric S. Kawaguchi [aut, cre]
+Maintainer: Eric S. Kawaguchi <erickawaguchi@ucla.edu>
+Description: Nonparametric two-sample procedure for comparing survival quantiles.
+Encoding: UTF-8
+Imports: survival (>= 2.41), graphics (>= 3.4.0), stats (>= 3.4.0)
+LazyData: true
+License: GPL-3
+RoxygenNote: 6.0.1
 NeedsCompilation: no
+Packaged: 2017-11-21 16:50:33 UTC; erickawaguchi
 Repository: CRAN
-Date/Publication: 2015-06-17 23:57:22
+Date/Publication: 2017-12-07 23:58:50 UTC
